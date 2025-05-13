@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning 2022<br>🎯 Goals: шmplement applications and products that will benefit people <br>🎲 Fun fact: I love cooking, but I can also survive on just pasta😂</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning 2022<br>🎯 Goals: implement applications and products that will benefit people <br>🎲 Fun fact: I love cooking, but I can also survive on just pasta😂</p>
 
 ###
 
