@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with React, TypeScript, HTML5, CSS3</h2>
 
 ###
 
