@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shamil and I'm a React software developer, from Russia, Moscow</p>
+<p align="left">My name is Shamil and I'm React software developer, from Russia, Moscow</p>
 
 ###
 
